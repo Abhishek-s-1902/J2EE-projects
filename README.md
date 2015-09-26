@@ -1,2 +1,2 @@
 # J2EE-projects
-Contains web related projects 
+Contains web related projects including servlet, hibernate, Junit Frameworks and Amazone-AWS etc. 
